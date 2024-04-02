@@ -25,7 +25,7 @@ This repository contains notes taken for the AWS certified developer certificati
 26 hours total = 26 days.
 
 - Section 6 = 55 min (EC2 Instance Storage) -----DONE-----
-- Section 7 = 1hr 36 min (AWS Fundi: ELB + ASG)
+- Section 7 = 1hr 36 min (AWS Fundi: ELB + ASG) ------DONE-----
 - Section 8 = 1hr 6 min (AWS Fundi: RDS, Cache DB)
 - Section 9 = 1hr 30 min (Route 53)
 - Section 10 = 25 min (VPC Fundamentals)
